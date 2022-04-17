@@ -1,0 +1,10 @@
+As aplicações incluídas são:
+
+CMatrix
+Cowsay
+Fortune
+SL 
+ASCIIView 
+Espeak
+Figlet
+

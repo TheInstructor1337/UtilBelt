@@ -1,0 +1,18 @@
+As aplicações incluídas são:
+
+Snap
+Flatpak
+Wine
+Neofetch
+Discord
+Telegram
+PHP
+Golang
+Python 3 & Pip & Pacote Python-Is-Python3
+Perl
+Ruby
+TOR Browser
+TOR Proxy
+FTP
+SMBClient
+Curl
