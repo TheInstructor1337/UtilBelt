@@ -1,0 +1,22 @@
+As aplicações incluídas são:
+
+GoBuster
+FFuF
+WFuzz
+RootKit Hunter (rkhunter)
+WafW00f
+BurpSuite
+Wireshark
+Exploit-DB (searchsploit)
+Nikto
+WPScan
+SQLmap
+Nmap
+Metasploit Framework
+BeEF Framework
+FCrackZip
+Hydra
+John The Ripper
+Enum4linux
+ExifTool
+DNSEnum

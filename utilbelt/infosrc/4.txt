@@ -1,0 +1,9 @@
+As aplicações incluídas são:
+
+LinPeas
+Chisel
+Radare2
+CheckSec
+SSH2John 
+PostMan 
+Ngrok 
